@@ -1,6 +1,6 @@
 # Predictive-modelling-for-agriculture
 Predictive modelling for agriculture- Supervised Machine Learning Project
-![image](blob:https://www.datacamp.com/bce14fa2-3dca-447c-b2c0-538fd7658009)
+
 ## Overview
 This repository contains a Classifier model that answers the question what crop is suitable for what soil conditions given multiple measures of soil nutrients. It also find the nutrient that is best used to determine the type of crop. The main model employed is the Random Forest Classifier.
 
